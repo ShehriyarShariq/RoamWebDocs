@@ -9,7 +9,7 @@ const config = {
   title: 'Roam Web',
   tagline: 'Interactive Travel Planner',
   url: 'https://roam-h2ouihnqm-steedsolutions.vercel.app/',
-  baseUrl: '/',
+  baseUrl: '/RoamWebDocs/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
